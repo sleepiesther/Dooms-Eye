@@ -10,7 +10,7 @@ When Chaos Control is activated you gain a few benefits:
 - Most nearby objects or enemies freeze in place, and are unaffected by damage until time is restored. You are also able to stand on some otherwise damaging objects, such as missiles.
 - Your boost gauge is immediately filled to 100%
 
-<video src="assets/CCShowcase.mp4" width="720px"></video>
+![Chaos Control Showcase](assets/CCShowcase.mp4)
 
 The IGT pause is essential in [IL runs](<Getting Started.md#individual-level-il>), that are timed using IGT. IT is often worth it to take a "slower" route in ILs that gets more Chaos Controls.
 
