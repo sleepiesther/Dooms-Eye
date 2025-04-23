@@ -150,9 +150,11 @@ Pressing jump just as you get the speed boost from a Morph boost allows you to c
 ### Flight Basics
 Holding air boost in midair with Wings activated allows Shadow to start flying. While flying, Shadow will maintain *most* of his height (there is slight height loss, this is especially noticable in 2D) and glide freely through the air. This slowly drains the boost gauge, through grounding yourself quickly regenerates it.
 
-In 3D levels, flight speed can exceed the "maximum". When you start flight, the game multiplies your current speed by some number ranging from 0.83 to 0.9 (the exact specifics elude me and I do not want to go crazy researching them). If the result of this multiplication is less than or equal to 50, it'll set your speed to 50. If the result is more than 50, your max flight speed will be that speed. 
+In 3D levels, flight speed can exceed the "maximum". When you start flight, you lose about 7.2 - 7.4 units of speed across about 1 second, though your speed will never end up below 50. 
 
-This seemingly doesn't apply to 2D levels. From what I can test, if your speed exceeds 30 when starting flight, your speed will always be set to 30. There aren't really many places in 2D levels where you can get significant speed, so it's hard to test.
+For example, if you start flight at 60 speed, you'd end up with about 52.3 speed. If you start flight with 55 speed, you'd get set to 50 speed.
+
+This seemingly doesn't apply to 2D levels. From what I can test, if your speed exceeds 30 when starting flight, your speed will always just be set to 30. There aren't really many places in 2D levels where you can get significant speed, so it's hard to test.
 
 ### Wingteching
 Wingteching is when you start an air boost with Wings, then immediately cancel it with a Spear. Because Doom Wings give you infinite air boosts, you can keep wingteching until you run out of boost.
