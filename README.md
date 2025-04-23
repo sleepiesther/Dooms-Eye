@@ -2,6 +2,7 @@
 Guide and glossary for Shadow Generations speedrunning. Currently unfinished. Feel free to contribute by either making a pull request or messaging me @sleepiesther on discord
 
 [Getting Started](<Getting Started.md>)
+
 [The Basics](<The Basics.md>)
 
 ## Credits
