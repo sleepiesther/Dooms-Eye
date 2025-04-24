@@ -9,7 +9,7 @@ On PC you can use basically any recording software, the most popular being [OBS]
 
 If you're running a [category](#categories) timed using IGT or RTA, you're all set! If you're running a category timed using LRT, you'll need to setup [LiveSplit](https://livesplit.org) and include the loadless timer in your recording. You can learn how to set up the loadless timer [here](https://www.speedrun.com/Shadow_Generations/guides/btoqj).
 
-## Settings and binds
+### Settings and binds
 There aren't too many important settings in this game. The only setting that affects control is deceleration. Deceleration controls how quickly Shadow stops moving when you stop inputting a movement. At 100 (default), Shadow will stop instantly. The lower your deceleration value, the longer it'll take for Shadow to stop. This isn't too impactful, I'd recommend keeping it at 100 for tighter controls but its up to preference.
 
 The other important setting is FPS. FPS is only really impactful when you try and break the game, and the possible options depend on platform:
@@ -22,10 +22,10 @@ There are some glitches that rely on FPS, but it doesn't affect normal gameplay.
 
 Binds are mostly preference, but it is highly recommended that you move Chaos Spear to a bumper. How you arrange the rest of the buttons is up to you.
 
-## FPS optimisation
-This section only applies to PC runners. If you're on console, skip to the [next section](#categories).
+### FPS optimisation
+The next two sections only apply to PC runners. If you're on console, skip to [categories](#categories).
 
-If you're on PC, you may have noticed that this game struggles way more at maintaining 120 FPS than it realistically should. This is because Shadow Generations has Denuvo anti-piracy. I'll spare you the technical explanation, but in short this means that all that really matters for performance is your CPU's clock speed. Number of cores is generally irrelevant and the performance of other parts is generally irrelevant.
+You may have noticed that this game struggles way more at maintaining 120 FPS than it realistically should. This is because Shadow Generations has Denuvo anti-piracy. I'll spare you the technical explanation, but in short this means that all that really matters for performance is your CPU's clock speed. Number of cores is generally irrelevant and the performance of other parts is generally irrelevant.
 
 To remedy this, you have three main options:
 - Raise Shadow Generations' priority in task manager
@@ -34,6 +34,12 @@ To remedy this, you have three main options:
 
 If you want a good goal value for your clock speed, a speed of 4.3 - 4.5 GHz seems to be enough to run at 1080p 120 FPS.
 
+### Downpatching
+There are a couple of glitches in this game that only work on a pre-Tokyo DLC patch. The main practice tool [Chaos Spear](https://github.com/sleepiesther/Chaos-Spear) also doesn't work on the most recent patch for annoying memory address reasons, though it is compatible with the Tokyo launch patch.
+
+Because of this, most runners run on the version just before Tokyo was released. To learn how to obtain this version, follow [this guide](https://www.speedrun.com/Shadow_Generations/guides/scmlk). 
+
+If you plan on speedrunning Tokyo, then it is recommended to use the Tokyo launch patch instead of the most recent patch. The manifest ID of the Tokyo launch patch is 	8323993515852168922.
 
 ## Categories
 Shadow Generations speedruns are separated into multiple different categories, each with a different ruleset. 
