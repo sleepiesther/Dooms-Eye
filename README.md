@@ -6,5 +6,6 @@ Guide and glossary for Shadow Generations speedrunning. Currently unfinished. Fe
 [The Basics](<The Basics.md>)
 
 ## Credits
-- Written and created by sleepiesther, with help and videos from Moha.
+- Written and created by sleepiesther.
+- Contributors: Moha, Layla
 - Inspired by [Starfall Shrine](https://sites.google.com/view/starfallshrine)
