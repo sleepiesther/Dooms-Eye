@@ -8,6 +8,7 @@
     - [Speed Values](#speed-values)
     - [Speargliding](#speargliding)
     - [Powersliding](#powersliding-written-by-moha)
+    - [Air Sliding](#air-sliding-also-written-by-moha)
     - [Neutral Sticking](#neutral-sticking)
     - [Rail Switching](#rail-switching)
     - [Bunnyhopping](#bunnyhopping)
@@ -15,6 +16,7 @@
     - [Morph Jumping](#morph-jumping)
 - [Doom Wings](#doom-wings)
     - [Flight Basics](#flight-basics)
+    - [Sidestep Clipping](#sidestep-clipping)
     - [Wingteching](#wingteching)
     - [Instawings](#instawings)
 
@@ -114,6 +116,16 @@ When powersliding, Shadow will stick to ledges, meaning you can't fall off.
 
 [Sticky Powerslide Showcase](https://github.com/user-attachments/assets/ef0becf2-d15b-47b2-8e66-341b4dc6164d)
 
+### Air Sliding (also written by Moha)
+
+Air Sliding is performed by jumping and then pressing the sidestep button.
+
+While the air sliding animation is active, Shadow gains all of the properties of the "Spear state", namely speed retention and a loss of terminal velocity. If you land while in this state and continue holding the button, you'll transition into a powerslide.
+
+This move can be used as a short hop to dodge grounded hazards without losing all your speed by jumping.
+
+[Air Sliding Showcase](https://github.com/user-attachments/assets/2a170425-4db4-4c5e-ac6a-6c41bb9f040a)
+
 ### Neutral Sticking
 For whatever reason, keeping the stick in a neutral position allows you to retain more speed when jumping compared to holding the stick forward. This is especially noticable on rails. 
 
@@ -155,6 +167,11 @@ In 3D levels, flight speed can exceed the "maximum". When you start flight, you 
 For example, if you start flight at 60 speed, you'd end up with about 52.3 speed. If you start flight with 55 speed, you'd get set to 50 speed.
 
 This seemingly doesn't apply to 2D levels. From what I can test, if your speed exceeds 30 when starting flight, your speed will always just be set to 30. There aren't really many places in 2D levels where you can get significant speed, so it's hard to test.
+
+### Sidestep Clipping
+Using the Wings sidestep into an invisible wall will sometimes just... clip you through it. Don't ask me why.
+
+This doesn't work everywhere, but the places where it does work are 100% consistent. So that's nice at least.
 
 ### Wingteching
 Wingteching is when you start an air boost with Wings, then immediately cancel it with a Spear. Because Doom Wings give you infinite air boosts, you can keep wingteching until you run out of boost.
