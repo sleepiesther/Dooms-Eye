@@ -48,6 +48,7 @@ Walking on the back of the Biolizard to deal damage early in the 1st Phase is no
 - Biolizard: HutHutHut
 - KV 2: Loop Oneah (Wings only), Loop Tuah
 - SH 1: Zoomies and Hyperzoomies
+- SH 2: IDK Skip
 - CI 2: I Forgor 💀 Skip (Wings only)
 - RH 1: RH1 Fling
 - RH 2: Teleport Fling
