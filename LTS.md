@@ -2,7 +2,7 @@
 - Page Author: Esther
 
 ## Intro and explanation
-LTS (short for Limited Tech Selection) is a category that bans specific tech and skips, in order to bring parity between systems and frame rates, as well as make the game more fun to run. Currently only Any% LTS exists, so this page will mainly focus on that, but All Stages LTS may come in the future.
+LTS (short for Limited Tech Selection) is a category that bans specific tech and skips, in order to bring parity between systems and frame rates, as well as make the game more fun to run.
 
 ## Ban List
 
@@ -40,14 +40,15 @@ Any tricks that give you access to a 3D or Free Camera in 2D stages is not allow
 Walking on the back of the Biolizard to deal damage early in the 1st Phase is not allowed.
 
 ### Banned tech per level
-As mentioned before, this only covers the tricks possible in any%. There are probably also ways to break the rules not listed here, but they're either undiscovered or slow and lose time.
 
 - ARK 1: Sploinkys, Mohawk Tuah, Tube Glitch, Missile Skip
+- ARK 2: I Rember 😄 Skip (Wings only), FPS Skip (AS only)
 - RC 1: ESP and ERP, Dive Skip Jump
 - RC 2: RC2 Fling
 - Biolizard: HutHutHut
-- KV 2: Loop Tuah
+- KV 2: Loop Oneah (Wings only), Loop Tuah
 - SH 1: Zoomies and Hyperzoomies
+- CI 2: I Forgor 💀 Skip (Wings only)
 - RH 1: RH1 Fling
 - RH 2: Teleport Fling
-- White Space: Quit Tech, Bitch Loop, Wings Skip
+- White Space (Any% only): Quit Tech, Bitch Loop, Wings Skip
