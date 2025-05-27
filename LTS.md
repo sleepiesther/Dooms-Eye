@@ -13,7 +13,7 @@ Abusing automation to get unintended speed and/or height (All flings, including 
 Quitting out to skip Boss Door opening Cutscenes is not allowed.
 
 ### Missile Cutscene Skip 
-Any method of skipping the missile cutscene in ARK 1 is not allowed. All LTS runs must watch this cutscene and do the QTE.
+Any method of skipping the missile cutscene in ARK 1 is not allowed in wingless categories. All wingless LTS runs must watch this cutscene and do the QTE. The reason this skip isn't banned in Wings runs is because it's a lot simpler to perform with Wings.
 
 ### Any Doom Power skips
 This is pretty self explanatory. All LTS runs must collect all 5 Doom Powers.
@@ -41,7 +41,7 @@ Walking on the back of the Biolizard to deal damage early in the 1st Phase is no
 
 ### Banned tech per level
 
-- ARK 1: Sploinkys, Mohawk Tuah, Tube Glitch, Missile Skip
+- ARK 1: Sploinkys, Mohawk Tuah, Tube Glitch, Missile Skip (Wingless only)
 - ARK 2: I Rember 😄 Skip (Wings only), FPS Skip (AS only)
 - RC 1: ESP and ERP, Dive Skip Jump
 - RC 2: RC2 Fling
