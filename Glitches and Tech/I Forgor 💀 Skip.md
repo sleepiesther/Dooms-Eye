@@ -10,7 +10,7 @@ Then, pop Wings and literally just fly backwards. Keep going backwards until you
 ![CI2 Ledge](https://github.com/user-attachments/assets/a90a41bd-295e-484e-88be-fb8b65c30796)
 
 
-Ground boost under the ledge, double jump, then Wing tech once and keep spearing until you get free cam. Once you do, wait a short amount of time and start flying in the direction of the big spiky rock thing. If you start flying too early you'll hit a death plane. se your Chaos Control to extend your flight.
+Ground boost under the ledge, double jump, then Wing tech once and keep spearing until you get free cam. Once you do, wait a short amount of time and start flying in the direction of the big spiky rock thing. If you start flying too early you'll hit a death plane. Use your Chaos Control to extend your flight.
 
 Aim to re-enter by landing on the bouncy pole thing (??? do those have names). You can Wing tech for additional height if needed.
 
