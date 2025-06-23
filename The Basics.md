@@ -81,7 +81,7 @@ Speargliding is pretty simple. All you have to do is be airborne while at high s
 
 **YOU DO NOT NEED TO SPAM THE INPUT. SAVE YOURSELF THE HAND PAIN AND TAKE IT SLOW**
 
-Often, objects such as dash rings while give you more speed than you can normally obtain. Speargliding using this speed can lead to massive skips, so keep an eye out for these objects!
+Often, objects such as dash rings will give you more speed than you can normally obtain. Speargliding using this speed can lead to massive skips, so keep an eye out for these objects!
 
 This does have one caveat, while in the Spear state Shadow has no terminal velocity. Normally, Shadow will accelerate while falling until he hits the max falling speed, and then stay at that speed. However, when in the Spear state, Shadow just... keeps accelerating down. This normally isn't too impactful, but it's something to keep in mind. You can reset your falling speed using an air boost or a double jump, cancelled with a Spear. When done properly this does not lose any speed, but the input is pretty tight.
 
