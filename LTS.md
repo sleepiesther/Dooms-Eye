@@ -2,7 +2,9 @@
 - Page Author: Esther
 
 ## Intro and explanation
-LTS (short for Limited Tech Selection) is a category that bans specific tech and skips, in order to bring parity between systems and frame rates, as well as make the game more fun to run.
+LTS is a type of category that appends a ban list onto the rules of an existing category. For example, Any% LTS has the same rules as Any% alongside the bans that LTS brings.
+
+The goal of these bans is to bring parity between systems and frame rates, as well as make the game more fun to run.
 
 ## Ban List
 
@@ -10,7 +12,7 @@ LTS (short for Limited Tech Selection) is a category that bans specific tech and
 Abusing automation to get unintended speed and/or height (All flings, including Dashpad launches and the Whitespace loop) is not allowed. There are a lot of flings in this game. For some examples, see [Bitch Loop](https://github.com/sleepiesther/Dooms-Eye/blob/main/Glitches%20and%20Tech/Bitch%20Loop.md), [ESP and ERP](https://github.com/sleepiesther/Dooms-Eye/blob/main/Glitches%20and%20Tech/ESP%20and%20ERP.md), and [RH1 Fling](https://github.com/sleepiesther/Dooms-Eye/blob/main/Glitches%20and%20Tech/RH1%20Fling.md)
 
 ### Quit Tech 
-Quitting out to skip Boss Door opening Cutscenes is not allowed.
+Quitting out to skip Boss Door opening cutscenes is not allowed.
 
 ### Missile Cutscene Skip 
 Any method of skipping the missile cutscene in ARK 1 is not allowed in wingless categories. All wingless LTS runs must watch this cutscene and do the QTE. The reason this skip isn't banned in Wings runs is because it's a lot simpler to perform with Wings.
@@ -49,7 +51,7 @@ Walking on the back of the Biolizard to deal damage early in the 1st Phase is no
 - KV 2: Loop Oneah (Wings only), Loop Tuah
 - SH 1: Zoomies and Hyperzoomies
 - SH 2: IDK Skip
-- CI 2: I Forgor 💀 Skip (Wings only)
+- CI 2: Flingshot, I Forgor 💀 Skip (Wings only)
 - RH 1: RH1 Fling
 - RH 2: Teleport Fling
 - White Space (Any% only): Quit Tech, Bitch Loop, Wings Skip
