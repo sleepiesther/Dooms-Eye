@@ -39,7 +39,7 @@ There are a couple of glitches in this game that only work on a pre-Tokyo DLC pa
 
 Because of this, most PC runners run on the version just before Tokyo was released. To learn how to obtain this version, follow [this guide](https://www.speedrun.com/Shadow_Generations/guides/scmlk). 
 
-If you plan on speedrunning Tokyo, then it is recommended to use the Tokyo launch patch instead of the most recent patch. The manifest ID of the Tokyo launch patch is 	8323993515852168922.
+If you plan on speedrunning Tokyo, then it is recommended to use the Tokyo launch patch instead of the most recent patch. The manifest ID of the Tokyo launch patch is 8323993515852168922.
 
 Unfortunately, downpatching isn't very viable on console, so the vast majority of console runners run on the most recent patch.
 
@@ -52,14 +52,23 @@ There are three different timing methods used for Shadow Generations:
   
 - Load Removed Time (LRT). LRT is a PC exclusive timing method. It is a modified RTA that pauses during load screens, so that differing specs does not affect runs.
 
+### Category Extensions (Catex)
+Catex is a seperate leaderboard consisting of more niche or stupid categories, alongside categories that can't go on the main leaderboard for logistical reasons. You can find the Category Extensions leaderboard [here](https://www.speedrun.com/shadow_generations_catex)
+
+### Limited Tech Selection (LTS)
+LTS is a type of category that appends a ban list onto the rules of an existing category. For example, Any% LTS has the same rules as Any% alongside the bans that LTS brings. For more elaboration on the exact bans of LTS, read it's full page [here](https://github.com/sleepiesther/Dooms-Eye/blob/main/LTS.md)
+
 ### Individual Level (IL)
 IL runs are speedruns of a single level in the game, such as a main stage, boss, or challenge. ILs are timed using IGT, so using Chaos Control to pause the timer is integral to getting a good time, which leads to unique routing compared to other categories.
+This category has an [LTS](https://github.com/sleepiesther/Dooms-Eye/blob/main/LTS.md) variant on catex.
 
 ### [Any%](https://www.speedrun.com/Shadow_Generations?h=any-pc&x=xk973ovd-789v4x0n.1w4dk9oq)
 Any% runs start from a new game and aim to reach the credits as quickly as possible. Time starts when you select the save file for your new game, and ends when you finish the button mash at the end of Neo Devil Doom. PC runs are timed using LRT, and console runs are timed using RTA.
+This category has an [LTS](https://github.com/sleepiesther/Dooms-Eye/blob/main/LTS.md) variant.
 
 ### [All Stages](https://www.speedrun.com/Shadow_Generations?h=all-stages-pc-no-wings&x=5dwwyy5d-wl3jw968.le24w55l-wlegp9xn.lx58j921)
 All Stages runs complete every main stage and boss in the game. There are two All Stages categories: one that allows the use of Doom Wings and one that doesn't. You can complete the stages in any order, but Devil Doom must be last. Time starts when you press the input to enter the first stage, and ends when you finish the button mash at the end of Neo Devil Doom. PC runs are timed using LRT, and console runs are timed using RTA.
+This category has an [LTS](https://github.com/sleepiesther/Dooms-Eye/blob/main/LTS.md) variant.
 
 ### [All Challenges](https://www.speedrun.com/Shadow_Generations?h=all-challenges-pc&x=wk6l11ok-2lge95o8.139mypd1)
 All Challenges runs complete every challenge in the game. The use of Wings is allowed, but they're rarely actually used. You can complete the challenges in any order. Time starts when you input to enter the first challenge, and ends when you press continue after completing the final challenge. PC runs are timed using LRT, and console runs are timed using RTA.
