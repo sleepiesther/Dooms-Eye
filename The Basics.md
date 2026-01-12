@@ -12,6 +12,7 @@
     - [Neutral Sticking](#neutral-sticking)
     - [Rail Switching](#rail-switching)
     - [Bunnyhopping](#bunnyhopping)
+    - [Triple Jump](#triple-jump)
     - [Surf Brother](#surf-brother)
     - [Morph Jumping](#morph-jumping)
 - [Doom Wings](#doom-wings)
@@ -146,6 +147,11 @@ Switching between rails that are sloped downwards gives you a significant amount
 Just before you land, while in the Spear state, you have a very small input window to bunnyhop using the jump button. This will refresh your air boost but not count you as properly grounded. This can be used to build speed when done on a slope, but is mainly used to skip the building sliding sections in ARK 1 and RH 1.
 
 [Bunnyhopping Showcase](https://github.com/user-attachments/assets/50a89e83-3e28-47d4-8ddc-4513ae43c87b)
+
+### Triple jump
+If you throw a spear just before you boost off of a ledge, you will maintain the grounded state for the full length of the spear animation. This allows you to perform a ground jump in the air. Combining this with an air boost and a double jump allows you to make some very tight jumps.
+
+[Triple Jump Showcase](https://github.com/user-attachments/assets/6ea9af7c-e435-43e3-9c59-089733bb24be)
 
 ### Surf Brother
 Spamming sidestep or jumping while using Doom Surf will conserve almost all of your speed. Doing this after a Surf boost allows you to go incredibly fast across the water.
