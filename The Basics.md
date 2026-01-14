@@ -170,7 +170,7 @@ Holding air boost in midair with Wings activated allows Shadow to start flying. 
 
 In 3D levels, flight speed can exceed the "maximum". When you start flight, you lose about 7.2 - 7.4 units of speed across about 1 second, though your speed will never end up below 50. 
 
-For example, if you start flight at 60 speed, you'd end up with about 52.3 speed. If you start flight with 55 speed, you'd get set to 50 speed.
+For example, if you start flight at 60 speed, you'd end up with about 52.7 speed. If you start flight with 55 speed, you'd get set to 50 speed.
 
 This seemingly doesn't apply to 2D levels. From what I can test, if your speed exceeds 30 when starting flight, your speed will always just be set to 30. There aren't really many places in 2D levels where you can get significant speed, so it's hard to test.
 
