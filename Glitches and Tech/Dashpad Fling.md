@@ -1,4 +1,4 @@
-# Mohawk Tuah
+# Dashpad Fling (Ding)
 - FPS: 120
 - Patch: All
 - Page Authors: Moha, Esther
@@ -14,9 +14,9 @@ Position yourself on the dark line in the center of the platform. The exact posi
 
 After getting launched, spam spear until you see Shadow throw 2 spears. Once he does, hold double jump and curve to the right, when Radical Highway loads in, align yourself with this building and go straight forward.
 
-<img width="1399" height="854" alt="Mohawk Tuah Angle" src="https://github.com/user-attachments/assets/2b335686-8b42-4d7f-b047-191804df3f82" />
+<img width="1399" height="854" alt="Ding Angle" src="https://github.com/user-attachments/assets/2b335686-8b42-4d7f-b047-191804df3f82" />
 
 Once that building disappears, start spearing while still holding jump. Spam spear 11 - 13 times (the exact amount will depend on how quickly you press spear), then stop spearing. Once Shadow suddenly loses a lot of speed, start spearing again to fast fall. You should be able to land on the ending slide and beat the level.
 
-[Mohawk Tuah Launch Demo](https://github.com/user-attachments/assets/77ba798a-c2f3-4b2c-b9d8-fcff0e59a746)
+[Ding Launch Demo](https://github.com/user-attachments/assets/77ba798a-c2f3-4b2c-b9d8-fcff0e59a746)
 
