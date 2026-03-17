@@ -14,8 +14,8 @@ There aren't too many important settings in this game. The only setting that aff
 
 The other important setting is FPS. FPS is only really impactful when you try and break the game, and the possible options depend on platform:
 
-- Switch, PS4, Xbox One: Locked at 30 FPS
-- PS5, Xbox Series X/S: Toggle between 30 FPS at higher resolution (Image Quality Priority), or 60 FPS at lower resolution (Performance Priority) 
+- Switch (incl. Switch 2 running the Switch 1 edition), PS4, Xbox One: Locked at 30 FPS
+- PS5, Xbox Series X/S, Switch 2 edition: Toggle between 30 FPS at higher resolution (Image Quality Priority), or 60 FPS at lower resolution (Performance Priority) 
 - PC: Toggle between 30 FPS, 60 FPS and 120 FPS. Can be set to non-default values using either Vsync or graphics card settings, but will never exceed 120.
 
 There are some glitches that rely on FPS, but it doesn't affect normal gameplay. You should set your FPS to the highest possible option.
