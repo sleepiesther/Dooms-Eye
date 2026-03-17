@@ -58,16 +58,16 @@ LTS is a type of category that appends a ban list onto the rules of an existing 
 IL runs are speedruns of a single level in the game, such as a main stage, boss, or challenge. ILs are timed using IGT, so using Chaos Control to pause the timer is integral to getting a good time, which leads to unique routing compared to other categories.
 This category has an [LTS](https://github.com/sleepiesther/Dooms-Eye/blob/main/LTS.md) variant on catex.
 
-### [Any%](https://www.speedrun.com/Shadow_Generations?h=any-pc&x=xk973ovd-789v4x0n.1w4dk9oq)
+### [Any%](https://www.speedrun.com/shadow_generations?h=any-pc-unrestricted&x=xk973ovd-789v4x0n.1w4dk9oq-789mr96n.q8kjkpgq)
 Any% runs start from a new game and aim to reach the credits as quickly as possible. Time starts when you select the save file for your new game, and ends when you finish the button mash at the end of Neo Devil Doom. PC runs are timed using LRT, and console runs are timed using RTA.
 This category has an [LTS](https://github.com/sleepiesther/Dooms-Eye/blob/main/LTS.md) variant.
 
-### [All Stages](https://www.speedrun.com/Shadow_Generations?h=all-stages-pc-no-wings&x=5dwwyy5d-wl3jw968.le24w55l-wlegp9xn.lx58j921)
-All Stages runs complete every main stage and boss in the game. There are two All Stages categories: one that allows the use of Doom Wings and one that doesn't. You can complete the stages in any order, but Devil Doom must be last. Time starts when you press the input to enter the first stage, and ends when you finish the button mash at the end of Neo Devil Doom. PC runs are timed using LRT, and console runs are timed using RTA.
+### [All Stages](https://www.speedrun.com/shadow_generations?h=all-stages-pc-no-wings-unrestricted&x=mkegj4x2-0nwd16k8.qzn8n9gq-wlegp9xn.lx58j921-onvxrk78.ln8p890l)
+All Stages runs complete every main stage in the game. There are two All Stages categories: one that allows the use of Doom Wings and one that doesn't. You can complete the stages in any order, but Devil Doom must be last. Time starts when you press the input to enter the first stage, and ends when you finish the button mash at the end of Neo Devil Doom. PC runs are timed using LRT, and console runs are timed using RTA.
 This category has an [LTS](https://github.com/sleepiesther/Dooms-Eye/blob/main/LTS.md) variant.
 
-### [All Challenges](https://www.speedrun.com/Shadow_Generations?h=all-challenges-pc&x=wk6l11ok-2lge95o8.139mypd1)
+### [All Challenges](https://www.speedrun.com/shadow_generations?h=all-challenges-pc&x=wk6l11ok-2lge95o8.139mypd1)
 All Challenges runs complete every challenge in the game. The use of Wings is allowed, but they're rarely actually used. You can complete the challenges in any order. Time starts when you input to enter the first challenge, and ends when you press continue after completing the final challenge. PC runs are timed using LRT, and console runs are timed using RTA.
 
-### [100%](https://www.speedrun.com/Shadow_Generations?h=100-pc&x=q25v3wvd-68k1654l.1929wk0q)
+### [100%](https://www.speedrun.com/shadow_generations?h=100-pc&x=q25v3wvd-68k1654l.1929wk0q)
 100% runs aim to get both percentages in the Records tab of the menu to 100% from a new file. Timing is the same as Any%.
