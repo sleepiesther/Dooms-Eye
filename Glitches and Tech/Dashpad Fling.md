@@ -18,5 +18,5 @@ After getting launched, spam spear until you see Shadow throw 2 spears. Once he 
 
 Once that building disappears, start spearing while still holding jump. Spam spear 11 - 13 times (the exact amount will depend on how quickly you press spear), then stop spearing. Once Shadow suddenly loses a lot of speed, start spearing again to fast fall. You should be able to land on the ending slide and beat the level.
 
-[Ding Launch Demo](https://github.com/user-attachments/assets/77ba798a-c2f3-4b2c-b9d8-fcff0e59a746)
+[Ding Launch Demo](https://github.com/user-attachments/assets/9e6f9bf8-056e-4616-bfa8-14171832806a)
 
