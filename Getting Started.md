@@ -35,7 +35,7 @@ To remedy this, you have three main options:
 If you want a good goal value for your clock speed, a speed of 4.3 - 4.5 GHz seems to be enough to run at 1080p 120 FPS.
 
 ### Downpatching
-There are a couple of glitches in this game that only work on a pre-Tokyo DLC patch. The main practice tool [Chaos Spear](https://github.com/sleepiesther/Chaos-Spear) also doesn't work on the most recent patch for annoying memory address reasons, though it is compatible with the Tokyo launch patch.
+There are a couple of glitches in this game that only work on a pre-Tokyo DLC patch.
 
 Because of this, most PC runners run on the version just before Tokyo was released. To learn how to obtain this version, follow [this guide](https://www.speedrun.com/Shadow_Generations/guides/scmlk). 
 
